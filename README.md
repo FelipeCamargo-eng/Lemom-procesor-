@@ -1,5 +1,5 @@
 # Lemom-procesor-
-This project was made by two students from the University of Ibague of the Electronic Engineering program, Juan Felipe Camargo Espinosa and Braian Alejandro Tuberquia 2420182022. 
+This project was made by two students from the University of Ibague of the Electronic Engineering program, Juan Felipe Camargo Espinosa 2420182012 and Braian Alejandro Tuberquia 2420182022. 
 
 This project consists of the use of a PIC16F15244 Curiosity Nano, in order to carry out a count of units and packages, and with that to have a better control over production.
 
