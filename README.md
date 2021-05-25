@@ -37,9 +37,17 @@ https://ww1.microchip.com/downloads/en/DeviceDoc/PIC16F15244_Curiosity_Nano_Sche
 # Hardware Used
 
 •	PIC16F15244 Curiosity Nano
+
+
 •	Pantalla   LCD 16x2.
+
+
 •	Sensor TCRT5000 (Infrarrojo).
+
+
 •	Potenciómetro 50k ohm 
+
+
 •	Jumpers 
 
 ![image](https://user-images.githubusercontent.com/79653676/119371976-8cda1080-bc7c-11eb-9af2-48e2cad37d06.png)
