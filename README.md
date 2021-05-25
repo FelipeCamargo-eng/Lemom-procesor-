@@ -48,7 +48,8 @@ https://ww1.microchip.com/downloads/en/DeviceDoc/PIC16F15244_Curiosity_Nano_Sche
 
 ![image](https://user-images.githubusercontent.com/79653676/119372461-f5c18880-bc7c-11eb-8112-9e4440a811ba.png)
 
-![Image](https://user-images.githubusercontent.com/80799408/119566172-78774000-bd70-11eb-87d4-44ffddb5f8c1.jpeg)
+![Imaguen 1](https://user-images.githubusercontent.com/80799408/119577572-7fa64a00-bd80-11eb-90e9-e74f3edea6cf.jpeg)
+
 
 
 # setup 
